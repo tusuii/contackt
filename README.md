@@ -2,6 +2,14 @@
 
 A modern, containerized contact management application built with Spring Boot and React. This application allows users to manage their contacts with basic CRUD operations in a user-friendly interface.
 
+## Application Preview
+
+![Contackt App](docs/images/app-preview1.png)
+
+![Contackt App](docs/images/app-preview2.png)
+
+_Screenshot of the Contackt application showing the contact list and add/edit form_
+
 ## Project Structure
 
 ```
